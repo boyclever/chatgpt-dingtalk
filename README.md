@@ -538,6 +538,13 @@ azure_openai_token: "xxxx"
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/boyclever">
+            <img src="https://avatars.githubusercontent.com/u/18401602?v=4" width="75;" alt="boyclever"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/eryajf">
             <img src="https://avatars.githubusercontent.com/u/33259379?v=4" width="75;" alt="eryajf"/>
             <br />
@@ -585,15 +592,15 @@ azure_openai_token: "xxxx"
             <br />
             <sub><b>Mao Mao</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/iblogc">
             <img src="https://avatars.githubusercontent.com/u/3283023?v=4" width="75;" alt="iblogc"/>
             <br />
             <sub><b>Iblogc</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/cnmill">
             <img src="https://avatars.githubusercontent.com/u/21098695?v=4" width="75;" alt="cnmill"/>
